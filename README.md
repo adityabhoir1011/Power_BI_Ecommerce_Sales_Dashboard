@@ -50,7 +50,7 @@ The dashboard contains multiple visuals representing different business insights
 
 Color-coded based on sales volume.
 
-![Dashboard]("http:")
+![Dashboard]("img/Dashboard img.png")
 
 ## 5. Filters & Interactivity
 
