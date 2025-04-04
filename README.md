@@ -50,7 +50,7 @@ The dashboard contains multiple visuals representing different business insights
 
 Color-coded based on sales volume.
 
-![Dashboard]("img/Dashboard img.png")
+![Dashboard]("[img/Dashboard img.png](https://github.com/adityabhoir1011/Power_BI_Ecommerce_Sales_Dashboard/blob/5a902cbac1497b09ad1c6ef30fcc4fb6f2db4afc/img/Dashboard%20img.png)")
 
 ## 5. Filters & Interactivity
 
